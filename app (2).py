@@ -19,7 +19,7 @@ FREE AI backends:
 
 Run with:  streamlit run app.py
 """
-
+python-pptx
 import io
 import json
 import random
